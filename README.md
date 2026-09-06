@@ -1,7 +1,7 @@
 # Programas con estructuras condicionales en Python
 
 - Nombre completo: Mario Eduardo Gomez Delgado
-- Número de control:251557
+- Número de control:25151557
 # Descripción de los programas
 
 # 1. clasificacion_triangulos.py

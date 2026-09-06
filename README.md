@@ -1,34 +1,31 @@
-# Estructuras-condicionales-I
-Unidad I POO
-# Programas con ciclos en Python
+# Programas con estructuras condicionales en Python
 
 - Nombre completo: Mario Eduardo Gomez Delgado
-- Número de control: 25151557
+- Número de control:251557
+# Descripción de los programas
 
-## Descripción de los programas
+# 1. clasificacion_triangulos.py
+Este programa solicita las tres longitudes de los lados de un triángulo e indica si el triángulo es equilátero, isósceles o escaleno. También verifica si los lados pueden formar un triángulo.
 
-# 1. contador_digitos.py
-Este programa solicita un número entero y cuenta cuántos dígitos tiene utilizando un ciclo while.
+# 2. anio_bisiesto.py
+Este programa solicita un año e indica si es bisiesto. Un año es bisiesto si es divisible entre 4 pero no entre 100, o si es divisible entre 400.
 
-# 2. fizzbuzz.py
-Este programa solicita un número n e imprime los números del 1 al n. Si el número es múltiplo de 3, imprime "Fizz". Si es múltiplo de 5, imprime "Buzz". Si es múltiplo de ambos, imprime "FizzBuzz".
+# 3. conversor_calificaciones.py
+Este programa solicita una calificación numérica entre 0 y 100 y muestra su equivalencia en letra: A, B, C, D o F.
 
-# 3. numero_invertido.py
-Este programa solicita un número entero y muestra sus dígitos en orden invertido.
+# 4. comparacion_numeros.py
+Este programa solicita tres números y muestra cuál es el mayor y cuál es el menor.
 
-# 4. suma_pares_impares.py
-Este programa solicita un número n y calcula por separado la suma de los números pares y la suma de los números impares desde 1 hasta n.
-
-# 5. piramide.py
-Este programa solicita un número n y dibuja una pirámide de asteriscos con altura n.
+# 5. tarifa_entrada.py
+Este programa solicita la edad de una persona y muestra el costo de entrada a un parque según su edad.
 
 # Cómo ejecutar los programas
 
 Se puede ejecutar cada programa desde la terminal usando:
 
 ```bash
-python contador_digitos.py
-python fizzbuzz.py
-python numero_invertido.py
-python suma_pares_impares.py
-python piramide.py
+python clasificacion_triangulos.py
+python anio_bisiesto.py
+python conversor_calificaciones.py
+python comparacion_numeros.py
+python tarifa_entrada.py
